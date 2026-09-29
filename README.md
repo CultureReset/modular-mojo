@@ -1,3 +1,5 @@
+> **Not part of Ghost.** This is a copy of the Modular Platform (the Mojo language and the MAX framework), kept for reference. It is not installed on a Ghost box.
+
 <!-- rumdl-disable-file MD033 MD041 MD075 -->
 
 <div align="center">
