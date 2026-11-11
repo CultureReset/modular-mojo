@@ -1,3 +1,14 @@
+> **CultureReset fork of [modular/modular](https://github.com/modular/modular).** The Modular Platform (includes MAX & Mojo).
+>
+> - **Why it is here:** Saved for reference.
+> - **Does anything run from it:** No.
+> - **Changes:** The default branch has no CultureReset commits; it is upstream as of the last sync.
+> - **License:** see upstream; this fork does not change it. For updates and issues, use [upstream](https://github.com/modular/modular).
+>
+> The upstream README follows unchanged.
+
+---
+
 <!-- rumdl-disable-file MD033 MD041 MD075 -->
 
 <div align="center">
